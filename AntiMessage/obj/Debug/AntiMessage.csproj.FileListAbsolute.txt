@@ -1,0 +1,12 @@
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\Messages.mdf
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\Messages_log.ldf
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\AntiMessage.exe.config
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\AntiMessage.exe
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\AntiMessage.pdb
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\EntityFramework.dll
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\EntityFramework.xml
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.csproj.CoreCompileInputs.cache
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.exe
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.pdb
