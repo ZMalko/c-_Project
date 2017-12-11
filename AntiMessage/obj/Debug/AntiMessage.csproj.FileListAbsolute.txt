@@ -10,3 +10,4 @@ C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\bin\Debug\EntityFramework.Sq
 C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.csproj.CoreCompileInputs.cache
 C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.exe
 C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.pdb
+C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\obj\Debug\AntiMessage.csprojResolveAssemblyReference.cache

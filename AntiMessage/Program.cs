@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Globalization;
+using System.IO;
 
 namespace AntiMessage
 {
@@ -23,7 +24,9 @@ namespace AntiMessage
 
             try
             {
-                str = @"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\Messages.mdf;Initial Catalog=EFCodeFirst;Integrated Security=True";
+                //str = @"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\zahi_\source\repos\AntiMessage\AntiMessage\Messages.mdf;Initial Catalog=EFCodeFirst;Integrated Security=True";
+                str = @"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=" + Directory.GetCurrentDirectory() + "\\Messages.mdf;Initial Catalog=EFCodeFirst;Integrated Security=True";
+                Console.WriteLine(str);
                 con = new SqlConnection(str);
                 con.Open();
                 Console.WriteLine("Database Connected");
